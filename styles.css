@@ -1,0 +1,30 @@
+.container { 
+    height: 95vh;
+    border: 2px solid #333;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+
+.box {
+    width: 250px;
+    
+    border: 2px solid gray;
+    box-shadow: 2px 2px 2px gray;
+    padding: 10px;
+    text-align: center;
+    display: inline;
+    align-items: center;
+}
+
+.box img {
+    max-width: 80%;
+    max-height: 80%;
+    border-radius: 50%;
+    
+
+}
